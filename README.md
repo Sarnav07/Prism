@@ -1,5 +1,7 @@
 # PRISM
 
+
+
 ## Introduction
 
 PRISM isn't just another MEV protection layer — it's a paradigm shift in how Uniswap V4 pools defend themselves. The future of DeFi holds a thousand specialized agents trading against your LPs. Today's V4 hooks aren't ready for them.
@@ -560,11 +562,6 @@ cd frontend && npm test && cd ..
 
 ---
 
-## YouTube Link
-
-> **Video Demo**: _(coming soon — link will be added here)_
-
----
 
 ## Whitepaper Reference
 
